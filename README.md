@@ -10,6 +10,9 @@ Feel Free for Use.
 ![Screenshot_2023-10-18_20-49-34](https://github.com/En1gm4PL/Obfuscator.py/assets/147084979/95452768-dc37-4651-b80d-a7e92138f943)
 
 # USAGE
+```python3
+python3 obsf.py
+
 ![Screenshot_2023-10-18_21-35-21](https://github.com/En1gm4PL/Obfuscator.py/assets/147084979/8b3af1f1-187c-4575-89e2-d891d5e0b532)
 
 
