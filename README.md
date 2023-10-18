@@ -12,6 +12,7 @@ Feel Free for Use.
 # USAGE
 ```python3
 python3 obsf.py
+```
 
 ![Screenshot_2023-10-18_21-35-21](https://github.com/En1gm4PL/Obfuscator.py/assets/147084979/8b3af1f1-187c-4575-89e2-d891d5e0b532)
 
