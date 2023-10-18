@@ -1,5 +1,6 @@
 # obfuscator.py
 
+/// Created by Maksymilian Ostrowski
 Crypter / obfuscate  tool  with a symmetrical key  - in which you can set any key password that will be automatically generated, Obfuscate with the use of Marshal String and compression Z -lib. Additional option if you need additional protection using Base64.
 100 % Undetectable for Anti Virus
 Once you obfuscate the code, when you run the encrypted code, e.g. python3 xx.py, you will have to provide the decryption password for the application to run the source code
